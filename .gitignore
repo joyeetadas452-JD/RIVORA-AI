@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+.pytest_cache/
+
+# ChromaDB persisted data
+vector_store/
+
+# Local virtualenvs (keep installed packages out of version control)
+.venv/
+venv/

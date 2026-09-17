@@ -1,0 +1,16 @@
+# Rivora AI — pinned dependencies (Sub-Task 1)
+# Requires Python 3.11+
+#
+# LangChain 0.3.x is pinned so later sub-tasks can use the plan's
+# PromptTemplate / LLMChain / HuggingFaceEmbeddings / Chroma APIs.
+# Do not upgrade to LangChain 1.x without an approved plan change.
+
+streamlit==1.48.1
+langchain==0.3.27
+langchain-ibm==0.3.15
+ibm-watsonx-ai>=1.3.28,<2.0.0
+chromadb==0.6.3
+sentence-transformers==3.4.1
+python-dotenv==1.1.1
+pydantic==2.11.7
+pytest==8.4.1

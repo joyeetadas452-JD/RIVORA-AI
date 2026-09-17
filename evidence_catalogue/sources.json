@@ -1,0 +1,11 @@
+{
+  "catalogue_metadata": {
+    "version": "0.0.0-scaffold",
+    "last_updated": null,
+    "last_checked": null,
+    "total_entries": 0,
+    "includes_1m1b": false,
+    "note": "Catalogue entries are populated in Sub-Task 7. This scaffold contains no sources."
+  },
+  "sources": []
+}
