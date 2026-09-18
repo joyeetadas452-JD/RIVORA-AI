@@ -11,3 +11,5 @@ vector_store/
 # Local virtualenvs (keep installed packages out of version control)
 .venv/
 venv/
+
+.venv-new/
